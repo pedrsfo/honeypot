@@ -1,0 +1,2 @@
+# honeypot
+Simples Script Honeypot
